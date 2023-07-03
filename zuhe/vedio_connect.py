@@ -12,4 +12,4 @@ def add2vedio():
     video_with_audio = repeated_video.set_audio(audio)
     video_with_audio.write_videofile("output.mp4", codec="libx264", audio_codec="aac")
     # nihao
-    print(2)
+    print(3)
